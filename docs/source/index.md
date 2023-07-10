@@ -13,7 +13,7 @@ La documentation en français en est à ses début et ne couvre pas tout de la d
 ---
 maxdepth: 1
 hidden:
-caption: Getting started
+caption: Démarrer
 ---
 overview
 getting-started
